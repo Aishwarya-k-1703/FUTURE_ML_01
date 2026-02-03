@@ -30,4 +30,19 @@ It focuses on analyzing historical retail sales data, building a forecasting mod
 ---
 
 ## 📁 Project Files
-- `sales_forecasting.ipynb` – Forecasting model & preprocessing
+- `sales_forecasting.ipynb` – Forecasting model & preprocessing  
+- `forecast.csv` – Forecast output  
+- `SalesForecastDashboard.pbix` – Power BI dashboard  
+- `screenshots/` – Dashboard images  
+
+---
+
+## 🎯 Learning Outcomes
+- Time series forecasting  
+- Data analysis & visualization  
+- Power BI dashboard development  
+
+---
+
+## 🙏 Acknowledgement
+This project was completed as part of **Future Interns – Machine Learning Task 1** internship program.
